@@ -1,0 +1,43 @@
+D:\DoAn.NET\DoAn\DoAn\bin\Debug\DoAn.exe.config
+D:\DoAn.NET\DoAn\DoAn\bin\Debug\DoAn.exe
+D:\DoAn.NET\DoAn\DoAn\bin\Debug\DoAn.pdb
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.Form1.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.exe
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.pdb
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.Login.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.Form_Chua_Bao_Cao.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.THONG_KE.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.TrangChu.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.User.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.SanPham1.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.ChatLieu.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.TrangSuc.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.SanPham2.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.DichVu.resources
+D:\DoAn.NET\DoAn\DoAn\obj\Debug\DoAn.DichVu2.resources
+D:\HOC KY NAY\CN.NET\DoAn\bin\Debug\DoAn.exe.config
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.exe
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.pdb
+D:\HOC KY NAY\CN.NET\DoAn\bin\Debug\DoAn.exe
+D:\HOC KY NAY\CN.NET\DoAn\bin\Debug\DoAn.pdb
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.ChatLieu.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.DichVu.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.DichVu2.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.Form1.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.Form_Chua_Bao_Cao.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.Login.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.Properties.Resources.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.SanPham1.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.SanPham2.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.THONG_KE.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.TrangChu.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.TrangSuc.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.User.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.csproj.GenerateResource.Cache
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.NhanZien.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.HoaDon1.resources
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.csprojResolveAssemblyReference.cache
+D:\HOC KY NAY\CN.NET\DoAn\obj\Debug\DoAn.ChiTietHD.resources
